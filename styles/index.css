@@ -199,7 +199,7 @@ nav {
 /* subscription  styles */
 .subscription {
   text-align: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(rgba(7, 51, 79, 0.4), rgba(7, 51, 79, 0.4)),
     url("../B12A02-Responsive-Flowers/assets/news-letter-bg.png") center/cover no-repeat;
   padding: 7rem 0;
 }
@@ -209,7 +209,7 @@ nav {
   margin-bottom: 10px;
 }
 .subscription .contact {
-  width: 30%;
+  width: 43%;
   margin: 0 auto;
   position: relative;
 }
